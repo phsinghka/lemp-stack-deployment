@@ -74,8 +74,8 @@ The `setup-script.sh` script performs the following actions:
 
 ### **Screenshots**
 
-1. **PHP Info Page:**
+1. **PHP Info Page:** <br/>
    ![PHP Info](screenshots/php_info.png)
 
-2. **Database Test Page:**
+2. **Database Test Page:** <br/>
    ![Database Test](screenshots/mysql_connection.png)
